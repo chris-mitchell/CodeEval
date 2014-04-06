@@ -1,0 +1,1 @@
+A few different solutions to CodeEval questions.
